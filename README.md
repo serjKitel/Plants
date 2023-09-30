@@ -28,3 +28,5 @@ The task consists of three parts:
     - Accordion in prices section
     - Implement a custom select in the "Contacts" section
   - test functionality
+
+ ![Plants](https://github.com/serjKitel/Plants/assets/119780938/dbe98589-48ca-4b14-82b0-7bf17da351ea)
