@@ -1,3 +1,5 @@
+https://serjkitel.github.io/Plants/
+
 ## Description:
 
 Plants is a project from RS School stage #0 during which you will make up the landing page of a site that offers its services for growing plants in the garden and caring for them, making it adaptive and interactive.
